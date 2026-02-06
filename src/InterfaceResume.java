@@ -25,7 +25,7 @@ public class InterfaceResume {
 	t.name=sc.nextLine();
 	t.qualification=sc.nextLine();
         t.experience=sc.nextInt();
-	sc.nextLine();
+	
         // TODO: Read input (Name, Qualification, Experience)
         // Assign to teacher object attributes
 	
