@@ -12,7 +12,7 @@ class Teacher implements Resume {
    public void biodata(){
 	System.out.println("Name: " + name);
 	System.out.println("Qualification: " + qualification);
-	System.out.println("Experience: " + experience);
+	System.out.println("Experience: " + experience+" years");
     }
 
     // TODO: Implement biodata() method to print details in the required format
